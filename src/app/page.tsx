@@ -11,7 +11,7 @@ const Home = () => {
       <h1 className={cn("mb-4 text-4xl font-bold")}>
         Welcome to the Home Page
       </h1>
-      <Button className="bg-red-600 px-5">Teste</Button>
+      <Button>Teste</Button>
     </div>
   );
 };
